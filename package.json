@@ -1,0 +1,20 @@
+{
+  "name": "circleci-build",
+  "version": "0.0.9",
+  "description": "",
+  "keywords": ["circleci", "ci", "build"],
+  "scripts": {
+    "start": "node --harmony_modules --harmony_arrow_functions cron.js",
+    "iojs": "iojs --harmony_modules --harmony_arrow_functions cron.js"
+  },
+  "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://fgribreau.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "common-env": "5.x.x",
+    "debug": "2.x.x",
+    "lodash": "3.x.x",
+    "request-when": "1.x.x",
+    "when": "3.x.x",
+    "winston": "1.x.x"
+  }
+}
