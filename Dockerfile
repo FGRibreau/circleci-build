@@ -1,4 +1,4 @@
-FROM iadvize/nodejs:0.12
+FROM iadvize/nodejs:4
 MAINTAINER Francois-Guillaume Ribreau <fg@iadvize.com>
 
 ENV API_TOKEN="circle-ci token"
