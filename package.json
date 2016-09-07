@@ -14,11 +14,11 @@
   "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://fgribreau.com/)",
   "license": "MIT",
   "dependencies": {
-    "common-env": "5.x.x",
+    "common-env": "6.0.0",
     "debug": "2.x.x",
-    "lodash": "3.x.x",
+    "lodash": "4.15.0",
     "request-when": "1.x.x",
     "when": "3.x.x",
-    "winston": "1.x.x"
+    "winston": "2.2.0"
   }
 }
