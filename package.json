@@ -16,7 +16,7 @@
   "dependencies": {
     "common-env": "5.x.x",
     "debug": "2.x.x",
-    "lodash": "3.x.x",
+    "lodash": "4.16.0",
     "request-when": "1.x.x",
     "when": "3.x.x",
     "winston": "1.x.x"
